@@ -116,7 +116,6 @@ li a:hover
     margin-top: 50px;
     padding-top: 30px;
     margin-bottom: -100px;
-    background-color: #537895;
     background-image: linear-gradient(315deg, #3d4456 0%, #09172b 74%);
     box-shadow: 12px 12px 0 0 rgba(0, 0, 0, .2);
     border-radius: 10px;
@@ -156,7 +155,6 @@ li a:hover
 }
 .kv2
 {
-    display: inline-block;
     height: 200px;
     width: 500px;
     background-color: #393939;
